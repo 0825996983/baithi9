@@ -1,0 +1,1 @@
+{"students":[{"id":"1","name":"Truong Gia Binh","subjects":[{"name":"Math","scores":[10,9,8]},{"name":"Physics","scores":[7,8,9]}]},{"id":"2","name":"bui dai phuc","subjects":[{"name":"Biology","scores":[10,9,8]},{"name":"Physics","scores":[7,8,9]}]},{"id":"3","name":"do quang bien","subjects":[{"name":"english","scores":[10,9,9]},{"name":"philosophy","scores":[2,25,5]}]}]}
